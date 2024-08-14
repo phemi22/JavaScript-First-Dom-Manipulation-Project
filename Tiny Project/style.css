@@ -1,0 +1,19 @@
+.btn1{
+    background-color: blue;
+    color: white;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 0.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: red;
+    color: white;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 0.5rem;
+    outline: none;
+    border: none;
+    cursor: not-allowed;
+}
